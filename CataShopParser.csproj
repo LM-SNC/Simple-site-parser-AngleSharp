@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net472</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AngleSharp.Css" Version="0.17.0-alpha-78" />
+      <PackageReference Include="ClosedXML" Version="0.95.4" />
+      <PackageReference Include="Microsoft.Office.Interop.Excel" Version="15.0.4795.1000" />
+      <PackageReference Include="System.Text.Encoding.CodePages" Version="7.0.0-preview.4.22229.4" />
+    </ItemGroup>
+
+</Project>
